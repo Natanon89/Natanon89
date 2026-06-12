@@ -8,3 +8,5 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 
 - 🎱 fav.sport : baskeball Snooker thai boxing 
+
+- 🎮 my hobbies : Listening to music Play gmae 
